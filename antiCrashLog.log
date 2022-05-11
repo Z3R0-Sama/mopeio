@@ -1,0 +1,1501 @@
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - ReferenceError: client is not defined
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - Error: Cannot find module './scam.json'
+Require stack:
+- /home/runner/Nia-Honjou/events/antiScam.js
+- /home/runner/Nia-Honjou/handler/index.js
+- /home/runner/Nia-Honjou/index.js
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: channel.createOverwrite is not a function
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError [INVALID_TYPE]: Supplied overwrites is not an Array or Collection of Permission Overwrites.
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'name')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'name')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'name')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'name')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'name')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'name')
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - Error: Cannot find module './scam.json'
+Require stack:
+- /home/runner/Nia-Honjou/events/antiScam.js
+- /home/runner/Nia-Honjou/handler/index.js
+- /home/runner/Nia-Honjou/index.js
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: messages.join is not a function
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: messages.join is not a function
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'name')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'name')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - ReferenceError: embed is not defined
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - ReferenceError: embed is not defined
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Unknown Message
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Unknown Message
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Unknown Message
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - ReferenceError: MessageButton is not defined
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Unknown Message
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Unknown Message
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'name')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'name')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/bump.js:7:35)
+    at Client.emit (node:events:402:35)
+    at MessageCreateAction.handle (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/actions/MessageCreate.js:23:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:300:10)
+    at WebSocket.onMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+    at Receiver.receiverOnMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/websocket.js:1022:20)
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/bump.js:7:35)
+    at Client.emit (node:events:402:35)
+    at MessageCreateAction.handle (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/actions/MessageCreate.js:23:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:300:10)
+    at WebSocket.onMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+    at Receiver.receiverOnMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/websocket.js:1022:20)
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/bump.js:8:35)
+    at Client.emit (node:events:402:35)
+    at MessageCreateAction.handle (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/actions/MessageCreate.js:23:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:300:10)
+    at WebSocket.onMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+    at Receiver.receiverOnMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/websocket.js:1022:20)
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/bump.js:8:35)
+    at Client.emit (node:events:402:35)
+    at MessageCreateAction.handle (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/actions/MessageCreate.js:23:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:300:10)
+    at WebSocket.onMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+    at Receiver.receiverOnMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/websocket.js:1022:20)
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/bump.js:8:35)
+    at Client.emit (node:events:402:35)
+    at MessageCreateAction.handle (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/actions/MessageCreate.js:23:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:300:10)
+    at WebSocket.onMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+    at Receiver.receiverOnMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/websocket.js:1022:20)
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/bump.js:8:35)
+    at Client.emit (node:events:402:35)
+    at MessageCreateAction.handle (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/actions/MessageCreate.js:23:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:300:10)
+    at WebSocket.onMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+    at Receiver.receiverOnMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/websocket.js:1022:20)
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/bump.js:8:35)
+    at Client.emit (node:events:402:35)
+    at MessageCreateAction.handle (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/actions/MessageCreate.js:23:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:300:10)
+    at WebSocket.onMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+    at Receiver.receiverOnMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/websocket.js:1022:20)
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/bump.js:8:35)
+    at Client.emit (node:events:402:35)
+    at MessageCreateAction.handle (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/actions/MessageCreate.js:23:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:300:10)
+    at WebSocket.onMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+    at Receiver.receiverOnMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/websocket.js:1022:20)
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - Error: FFmpeg/avconv not found!
+    at Function.getInfo (/home/runner/Nia-Honjou/node_modules/prism-media/src/core/FFmpeg.js:143:11)
+    at Function.create (/home/runner/Nia-Honjou/node_modules/prism-media/src/core/FFmpeg.js:156:38)
+    at new FFmpeg (/home/runner/Nia-Honjou/node_modules/prism-media/src/core/FFmpeg.js:45:27)
+    at Object.StreamDownloader [as default] (/home/runner/Nia-Honjou/node_modules/discord-ytdl-core/index.js:1:833)
+    at Queue.<anonymous> (/home/runner/Nia-Honjou/node_modules/discord-player/dist/Structures/Queue.js:648:53)
+    at Generator.next (<anonymous>)
+    at /home/runner/Nia-Honjou/node_modules/discord-player/dist/Structures/Queue.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/runner/Nia-Honjou/node_modules/discord-player/dist/Structures/Queue.js:4:12)
+    at Queue.play (/home/runner/Nia-Honjou/node_modules/discord-player/dist/Structures/Queue.js:622:16)
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - Error: Error: Cannot find module '@discordjs/opus'
+Require stack:
+- /home/runner/Nia-Honjou/node_modules/prism-media/src/util/loader.js
+- /home/runner/Nia-Honjou/node_modules/prism-media/src/opus/Opus.js
+- /home/runner/Nia-Honjou/node_modules/prism-media/src/opus/index.js
+- /home/runner/Nia-Honjou/node_modules/prism-media/src/index.js
+- /home/runner/Nia-Honjou/node_modules/discord-ytdl-core/index.js
+- /home/runner/Nia-Honjou/node_modules/discord-player/dist/Structures/Queue.js
+- /home/runner/Nia-Honjou/node_modules/discord-player/dist/Player.js
+- /home/runner/Nia-Honjou/node_modules/discord-player/dist/index.js
+- /home/runner/Nia-Honjou/client/player.js
+- /home/runner/Nia-Honjou/SlashCommands/music/lyrics.js
+- /home/runner/Nia-Honjou/handler/index.js
+- /home/runner/Nia-Honjou/index.js
+Error: Cannot find module 'node-opus'
+Require stack:
+- /home/runner/Nia-Honjou/node_modules/prism-media/src/util/loader.js
+- /home/runner/Nia-Honjou/node_modules/prism-media/src/opus/Opus.js
+- /home/runner/Nia-Honjou/node_modules/prism-media/src/opus/index.js
+- /home/runner/Nia-Honjou/node_modules/prism-media/src/index.js
+- /home/runner/Nia-Honjou/node_modules/discord-ytdl-core/index.js
+- /home/runner/Nia-Honjou/node_modules/discord-player/dist/Structures/Queue.js
+- /home/runner/Nia-Honjou/node_modules/discord-player/dist/Player.js
+- /home/runner/Nia-Honjou/node_modules/discord-player/dist/index.js
+- /home/runner/Nia-Honjou/client/player.js
+- /home/runner/Nia-Honjou/SlashCommands/music/lyrics.js
+- /home/runner/Nia-Honjou/handler/index.js
+- /home/runner/Nia-Honjou/index.js
+Error: Cannot find module 'opusscript'
+Require stack:
+- /home/runner/Nia-Honjou/node_modules/prism-media/src/util/loader.js
+- /home/runner/Nia-Honjou/node_modules/prism-media/src/opus/Opus.js
+- /home/runner/Nia-Honjou/node_modules/prism-media/src/opus/index.js
+- /home/runner/Nia-Honjou/node_modules/prism-media/src/index.js
+- /home/runner/Nia-Honjou/node_modules/discord-ytdl-core/index.js
+- /home/runner/Nia-Honjou/node_modules/discord-player/dist/Structures/Queue.js
+- /home/runner/Nia-Honjou/node_modules/discord-player/dist/Player.js
+- /home/runner/Nia-Honjou/node_modules/discord-player/dist/index.js
+- /home/runner/Nia-Honjou/client/player.js
+- /home/runner/Nia-Honjou/SlashCommands/music/lyrics.js
+- /home/runner/Nia-Honjou/handler/index.js
+- /home/runner/Nia-Honjou/index.js
+    at Object.loader [as require] (/home/runner/Nia-Honjou/node_modules/prism-media/src/util/loader.js:12:9)
+    at loadOpus (/home/runner/Nia-Honjou/node_modules/prism-media/src/opus/Opus.js:17:17)
+    at new OpusStream (/home/runner/Nia-Honjou/node_modules/prism-media/src/opus/Opus.js:46:10)
+    at new Encoder (/home/runner/Nia-Honjou/node_modules/prism-media/src/opus/Opus.js:149:5)
+    at Object.transformer (/home/runner/Nia-Honjou/node_modules/@discordjs/voice/dist/audio/TransformerGraph.js:120:24)
+    at /home/runner/Nia-Honjou/node_modules/@discordjs/voice/dist/audio/AudioResource.js:156:60
+    at Array.map (<anonymous>)
+    at Object.createAudioResource (/home/runner/Nia-Honjou/node_modules/@discordjs/voice/dist/audio/AudioResource.js:156:41)
+    at StreamDispatcher.createStream (/home/runner/Nia-Honjou/node_modules/discord-player/dist/VoiceInterface/StreamDispatcher.js:108:38)
+    at Queue.<anonymous> (/home/runner/Nia-Honjou/node_modules/discord-player/dist/Structures/Queue.js:666:46)
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+    at Function.resolve (/home/runner/Nia-Honjou/node_modules/discord-player/dist/utils/QueryResolver.js:32:74)
+    at Player.<anonymous> (/home/runner/Nia-Honjou/node_modules/discord-player/dist/Player.js:224:104)
+    at Generator.next (<anonymous>)
+    at /home/runner/Nia-Honjou/node_modules/discord-player/dist/Player.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/runner/Nia-Honjou/node_modules/discord-player/dist/Player.js:4:12)
+    at Player.search (/home/runner/Nia-Honjou/node_modules/discord-player/dist/Player.js:199:16)
+    at Object.run (/home/runner/Nia-Honjou/SlashCommands/music/play.js:23:43)
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/interactionCreate.js:24:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+    at Function.resolve (/home/runner/Nia-Honjou/node_modules/discord-player/dist/utils/QueryResolver.js:32:74)
+    at Player.<anonymous> (/home/runner/Nia-Honjou/node_modules/discord-player/dist/Player.js:224:104)
+    at Generator.next (<anonymous>)
+    at /home/runner/Nia-Honjou/node_modules/discord-player/dist/Player.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/runner/Nia-Honjou/node_modules/discord-player/dist/Player.js:4:12)
+    at Player.search (/home/runner/Nia-Honjou/node_modules/discord-player/dist/Player.js:199:16)
+    at Object.run (/home/runner/Nia-Honjou/SlashCommands/music/play.js:23:43)
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/interactionCreate.js:24:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+    at Function.resolve (/home/runner/Nia-Honjou/node_modules/discord-player/dist/utils/QueryResolver.js:32:74)
+    at Player.<anonymous> (/home/runner/Nia-Honjou/node_modules/discord-player/dist/Player.js:224:104)
+    at Generator.next (<anonymous>)
+    at /home/runner/Nia-Honjou/node_modules/discord-player/dist/Player.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/runner/Nia-Honjou/node_modules/discord-player/dist/Player.js:4:12)
+    at Player.search (/home/runner/Nia-Honjou/node_modules/discord-player/dist/Player.js:199:16)
+    at Object.run (/home/runner/Nia-Honjou/SlashCommands/music/play.js:23:43)
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/interactionCreate.js:24:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'includes')
+    at Function.resolve (/home/runner/Nia-Honjou/node_modules/discord-player/dist/utils/QueryResolver.js:32:74)
+    at Player.<anonymous> (/home/runner/Nia-Honjou/node_modules/discord-player/dist/Player.js:224:104)
+    at Generator.next (<anonymous>)
+    at /home/runner/Nia-Honjou/node_modules/discord-player/dist/Player.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/runner/Nia-Honjou/node_modules/discord-player/dist/Player.js:4:12)
+    at Player.search (/home/runner/Nia-Honjou/node_modules/discord-player/dist/Player.js:199:16)
+    at Object.run (/home/runner/Nia-Honjou/SlashCommands/music/play.js:23:43)
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/interactionCreate.js:24:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of null (reading 'name')
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/channelUpdate.js:42:21)
+    at Client.emit (node:events:390:28)
+    at Object.module.exports [as CHANNEL_UPDATE] (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/handlers/CHANNEL_UPDATE.js:14:12)
+    at WebSocketManager.handlePacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:300:10)
+    at WebSocket.onMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+    at Receiver.receiverOnMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/websocket.js:1022:20)
+    at Receiver.emit (node:events:390:28)
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of null (reading 'name')
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/channelUpdate.js:42:21)
+    at Client.emit (node:events:390:28)
+    at Object.module.exports [as CHANNEL_UPDATE] (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/handlers/CHANNEL_UPDATE.js:14:12)
+    at WebSocketManager.handlePacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:300:10)
+    at WebSocket.onMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+    at Receiver.receiverOnMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/websocket.js:1022:20)
+    at Receiver.emit (node:events:390:28)
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of undefined (reading 'tag')
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/guildBanAdd.js:16:45)
+    at Client.emit (node:events:390:28)
+    at GuildBanAdd.handle (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/actions/GuildBanAdd.js:16:23)
+    at Object.module.exports [as GUILD_BAN_ADD] (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/handlers/GUILD_BAN_ADD.js:4:30)
+    at WebSocketManager.handlePacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:300:10)
+    at WebSocket.onMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+    at Receiver.receiverOnMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/websocket.js:1022:20)
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of undefined (reading 'tag')
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/guildBanAdd.js:16:45)
+    at Client.emit (node:events:390:28)
+    at GuildBanAdd.handle (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/actions/GuildBanAdd.js:16:23)
+    at Object.module.exports [as GUILD_BAN_ADD] (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/handlers/GUILD_BAN_ADD.js:4:30)
+    at WebSocketManager.handlePacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:300:10)
+    at WebSocket.onMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+    at Receiver.receiverOnMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/websocket.js:1022:20)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: Cannot read properties of undefined (reading 'botBlue')
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/starboard.js:70:52)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - ReferenceError: f is not defined
+    at shortener (/home/runner/Nia-Honjou/node_modules/simply-xp/simplyxp.js:225:5)
+    at /home/runner/Nia-Honjou/node_modules/simply-xp/simplyxp.js:237:19
+    at Array.map (<anonymous>)
+    at Object.leaderboard (/home/runner/Nia-Honjou/node_modules/simply-xp/simplyxp.js:234:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Object.run (/home/runner/Nia-Honjou/commands/Levels/leaderboard.js:14:5)
+    at async Client.<anonymous> (/home/runner/Nia-Honjou/events/messageCreate.js:19:5)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - ReferenceError: Discord is not defined
+    at /home/runner/Nia-Honjou/commands/Levels/leaderboard.js:33:17
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Object.run (/home/runner/Nia-Honjou/commands/Levels/leaderboard.js:21:5)
+    at async Client.<anonymous> (/home/runner/Nia-Honjou/events/messageCreate.js:19:5)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Invalid Form Body
+components[0].components[0].emoji.name: Invalid emoji
+    at RequestHandler.execute (/home/runner/Nia-Honjou/node_modules/discord.js/src/rest/RequestHandler.js:298:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/runner/Nia-Honjou/node_modules/discord.js/src/rest/RequestHandler.js:50:14)
+    at async TextChannel.send (/home/runner/Nia-Honjou/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:172:15)
+    at async pagination (/home/runner/Nia-Honjou/node_modules/reconlx/dist/pagination/pagination.js:61:28)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: Cannot read properties of undefined (reading 'MessageActionRow')
+    at Object.run (/home/runner/Nia-Honjou/commands/Dev/add-role-everyone.js:41:35)
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/messageCreate.js:19:19)
+    at Client.emit (node:events:402:35)
+    at MessageCreateAction.handle (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/actions/MessageCreate.js:23:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:300:10)
+    at WebSocket.onMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+    at Receiver.receiverOnMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/websocket.js:1022:20)
+    at Receiver.emit (node:events:390:28)
+    at Receiver.dataMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:522:14)
+    at Receiver.getData (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:440:17)
+    at Receiver.startLoop (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:148:22)
+    at Receiver._write (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:83:10)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - ReferenceError: MessageButton is not defined
+    at Object.run (/home/runner/Nia-Honjou/commands/Dev/add-role-everyone.js:42:11)
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/messageCreate.js:19:19)
+    at Client.emit (node:events:402:35)
+    at MessageCreateAction.handle (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/actions/MessageCreate.js:23:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:300:10)
+    at WebSocket.onMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+    at Receiver.receiverOnMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/websocket.js:1022:20)
+    at Receiver.emit (node:events:390:28)
+    at Receiver.dataMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:522:14)
+    at Receiver.getData (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:440:17)
+    at Receiver.startLoop (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:148:22)
+    at Receiver._write (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:83:10)
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of undefined (reading 'tag')
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/guildBanDelete.js:16:47)
+    at Client.emit (node:events:390:28)
+    at GuildBanRemove.handle (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/actions/GuildBanRemove.js:20:14)
+    at Object.module.exports [as GUILD_BAN_REMOVE] (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/handlers/GUILD_BAN_REMOVE.js:4:33)
+    at WebSocketManager.handlePacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:300:10)
+    at WebSocket.onMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+    at Receiver.receiverOnMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/websocket.js:1022:20)
+    at Receiver.emit (node:events:390:28)
+    at Receiver.dataMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:522:14)
+    at Receiver.getData (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:440:17)
+    at Receiver.startLoop (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:148:22)
+    at Receiver._write (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:83:10)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of undefined (reading 'tag')
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/guildBanDelete.js:16:47)
+    at Client.emit (node:events:390:28)
+    at GuildBanRemove.handle (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/actions/GuildBanRemove.js:20:14)
+    at Object.module.exports [as GUILD_BAN_REMOVE] (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/handlers/GUILD_BAN_REMOVE.js:4:33)
+    at WebSocketManager.handlePacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:300:10)
+    at WebSocket.onMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+    at Receiver.receiverOnMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/websocket.js:1022:20)
+    at Receiver.emit (node:events:390:28)
+    at Receiver.dataMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:522:14)
+    at Receiver.getData (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:440:17)
+    at Receiver.startLoop (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:148:22)
+    at Receiver._write (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:83:10)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected. (Monitor)[39m
+[error] - TypeError: Cannot read properties of undefined (reading 'tag')
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/guildBanAdd.js:16:45)
+    at Client.emit (node:events:390:28)
+    at GuildBanAdd.handle (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/actions/GuildBanAdd.js:16:23)
+    at Object.module.exports [as GUILD_BAN_ADD] (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/handlers/GUILD_BAN_ADD.js:4:30)
+    at WebSocketManager.handlePacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:300:10)
+    at WebSocket.onMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+    at Receiver.receiverOnMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/websocket.js:1022:20)
+    at Receiver.emit (node:events:390:28)
+    at Receiver.dataMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:522:14)
+    at Receiver.getData (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:440:17)
+    at Receiver.startLoop (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:148:22)
+    at Receiver._write (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:83:10)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+[error] - [94m[antiCrash.js][39m[31mUncaught exception/catch detected.[39m
+[error] - TypeError: Cannot read properties of undefined (reading 'tag')
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/guildBanAdd.js:16:45)
+    at Client.emit (node:events:390:28)
+    at GuildBanAdd.handle (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/actions/GuildBanAdd.js:16:23)
+    at Object.module.exports [as GUILD_BAN_ADD] (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/handlers/GUILD_BAN_ADD.js:4:30)
+    at WebSocketManager.handlePacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:300:10)
+    at WebSocket.onMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+    at Receiver.receiverOnMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/websocket.js:1022:20)
+    at Receiver.emit (node:events:390:28)
+    at Receiver.dataMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:522:14)
+    at Receiver.getData (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:440:17)
+    at Receiver.startLoop (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:148:22)
+    at Receiver._write (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:83:10)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - ReferenceError: message is not defined
+    at Object.run (/home/runner/Nia-Honjou/SlashCommands/info/invites.js:23:9)
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/interactionCreate.js:24:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - ReferenceError: message is not defined
+    at Object.run (/home/runner/Nia-Honjou/SlashCommands/info/invites.js:18:9)
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/interactionCreate.js:24:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - ReferenceError: client is not defined
+    at Object.<anonymous> (/home/runner/Nia-Honjou/events/inviteJoin.js:22:1)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at /home/runner/Nia-Honjou/handler/index.js:27:31
+    at Array.map (<anonymous>)
+    at module.exports (/home/runner/Nia-Honjou/handler/index.js:27:16)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: guild.fetchInvites is not a function
+    at /home/runner/Nia-Honjou/events/inviteJoin.js:5:11
+    at new Promise (<anonymous>)
+    at getInviteCounts (/home/runner/Nia-Honjou/events/inviteJoin.js:4:16)
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/inviteJoin.js:30:30)
+    at Client.emit (node:events:402:35)
+    at Object.module.exports [as GUILD_MEMBER_ADD] (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/handlers/GUILD_MEMBER_ADD.js:16:14)
+    at WebSocketManager.handlePacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketShard.js:300:10)
+    at WebSocket.onMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+    at Receiver.receiverOnMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/websocket.js:1022:20)
+    at Receiver.emit (node:events:390:28)
+    at Receiver.dataMessage (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:522:14)
+    at Receiver.getData (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:440:17)
+    at Receiver.startLoop (/home/runner/Nia-Honjou/node_modules/ws/lib/receiver.js:148:22)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: Cannot read properties of undefined (reading 'Fabe#1848')
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/inviteJoin.js:36:22)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: Cannot read properties of undefined (reading 'Fabe#1848')
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/inviteJoin.js:36:22)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: invitesAfter.map is not a function
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/inviteJoin.js:33:38)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: invitesAfter.map is not a function
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/inviteJoin.js:33:38)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: invitesAfter.map is not a function
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/inviteJoin.js:33:38)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: invitesAfter.map is not a function
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/inviteJoin.js:33:38)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: invitesAfter.map is not a function
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/inviteJoin.js:33:38)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: Cannot read properties of undefined (reading 'title')
+    at Object.run (/home/runner/Nia-Honjou/SlashCommands/music/play.js:41:108)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+    at NativeConnection.Connection.openUri (/home/runner/Nia-Honjou/node_modules/mongoose/lib/connection.js:797:32)
+    at /home/runner/Nia-Honjou/node_modules/mongoose/lib/index.js:330:10
+    at /home/runner/Nia-Honjou/node_modules/mongoose/lib/helpers/promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/runner/Nia-Honjou/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (/home/runner/Nia-Honjou/node_modules/mongoose/lib/index.js:1151:10)
+    at Mongoose.connect (/home/runner/Nia-Honjou/node_modules/mongoose/lib/index.js:329:20)
+    at Object.connect (/home/runner/Nia-Honjou/node_modules/simply-xp/simplyxp.js:15:12)
+    at Object.<anonymous> (/home/runner/Nia-Honjou/index.js:24:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - AbortError: The user aborted a request.
+    at RequestHandler.execute (/home/runner/Nia-Honjou/node_modules/discord.js/src/rest/RequestHandler.js:172:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/runner/Nia-Honjou/node_modules/discord.js/src/rest/RequestHandler.js:50:14)
+    at async WebSocketManager.connect (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/websocket/WebSocketManager.js:133:9)
+    at async Client.login (/home/runner/Nia-Honjou/node_modules/discord.js/src/client/Client.js:245:7)
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: client.guilds.cache.get(...).fetchInvites is not a function
+    at Client.<anonymous> (/home/runner/Nia-Honjou/events/inviteJoin.js:48:31)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - ReferenceError: glnvites is not defined
+    at /home/runner/Nia-Honjou/events/inviteJoin.js:56:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: Cannot read properties of undefined (reading 'inviter')
+    at /home/runner/Nia-Honjou/events/inviteJoin.js:58:55
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseServerSelectionError: connect ECONNREFUSED 13.228.186.152:27017
+    at Function.Model.$wrapCallback (/home/runner/Nia-Honjou/node_modules/quickmongo/node_modules/mongoose/lib/model.js:4869:32)
+    at /home/runner/Nia-Honjou/node_modules/quickmongo/node_modules/mongoose/lib/query.js:4370:21
+    at /home/runner/Nia-Honjou/node_modules/quickmongo/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/runner/Nia-Honjou/node_modules/quickmongo/node_modules/mongoose/lib/helpers/promiseOrCallback.js:30:10)
+    at model.Query.exec (/home/runner/Nia-Honjou/node_modules/quickmongo/node_modules/mongoose/lib/query.js:4369:10)
+    at model.Query.Query.catch (/home/runner/Nia-Honjou/node_modules/quickmongo/node_modules/mongoose/lib/query.js:4468:15)
+    at Database.get (/home/runner/Nia-Honjou/node_modules/quickmongo/src/Main.js:132:19)
+    at Database.fetch (/home/runner/Nia-Honjou/node_modules/quickmongo/src/Main.js:149:21)
+    at Timeout._onTimeout (/home/runner/Nia-Honjou/node_modules/simply-djs/src/bumpSys.js:57:26)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseServerSelectionError: connect ECONNREFUSED 13.228.186.152:27017
+    at Function.Model.$wrapCallback (/home/runner/Nia-Honjou/node_modules/quickmongo/node_modules/mongoose/lib/model.js:4869:32)
+    at /home/runner/Nia-Honjou/node_modules/quickmongo/node_modules/mongoose/lib/query.js:4370:21
+    at /home/runner/Nia-Honjou/node_modules/quickmongo/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/runner/Nia-Honjou/node_modules/quickmongo/node_modules/mongoose/lib/helpers/promiseOrCallback.js:30:10)
+    at model.Query.exec (/home/runner/Nia-Honjou/node_modules/quickmongo/node_modules/mongoose/lib/query.js:4369:10)
+    at model.Query.Query.catch (/home/runner/Nia-Honjou/node_modules/quickmongo/node_modules/mongoose/lib/query.js:4468:15)
+    at Database.get (/home/runner/Nia-Honjou/node_modules/quickmongo/src/Main.js:132:19)
+    at Database.fetch (/home/runner/Nia-Honjou/node_modules/quickmongo/src/Main.js:149:21)
+    at Timeout._onTimeout (/home/runner/Nia-Honjou/node_modules/simply-djs/src/bumpSys.js:57:26)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Invalid Form Body
+message_reference: Unknown message
+    at RequestHandler.execute (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:298:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:50:14)
+    at async TextChannel.send (/home/runner/Nia-Honjou2/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:172:15)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Invalid Form Body
+message_reference: Unknown message
+    at RequestHandler.execute (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:298:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:50:14)
+    at async TextChannel.send (/home/runner/Nia-Honjou2/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:172:15)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+    at NativeConnection.Connection.openUri (/home/runner/Nia-Honjou2/node_modules/mongoose/lib/connection.js:797:32)
+    at /home/runner/Nia-Honjou2/node_modules/mongoose/lib/index.js:330:10
+    at /home/runner/Nia-Honjou2/node_modules/mongoose/lib/helpers/promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/runner/Nia-Honjou2/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (/home/runner/Nia-Honjou2/node_modules/mongoose/lib/index.js:1151:10)
+    at Mongoose.connect (/home/runner/Nia-Honjou2/node_modules/mongoose/lib/index.js:329:20)
+    at Object.connect (/home/runner/Nia-Honjou2/node_modules/simply-xp/src/connect.js:11:12)
+    at Object.<anonymous> (/home/runner/Nia-Honjou2/index.js:24:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseError: Operation `simply-xps.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/home/runner/Nia-Honjou2/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:149:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseError: Operation `simply-xps.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/home/runner/Nia-Honjou2/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:149:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseError: Operation `simply-xps.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/home/runner/Nia-Honjou2/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:149:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: me.edit is not a function
+    at Object.run (/home/runner/Nia-Honjou2/commands/Dev/rr-update.js:65:12)
+    at Client.<anonymous> (/home/runner/Nia-Honjou2/events/messageCreate.js:19:19)
+    at Client.emit (node:events:402:35)
+    at MessageCreateAction.handle (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/actions/MessageCreate.js:23:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/WebSocketShard.js:300:10)
+    at WebSocket.onMessage (/home/runner/Nia-Honjou2/node_modules/ws/lib/event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+    at Receiver.receiverOnMessage (/home/runner/Nia-Honjou2/node_modules/ws/lib/websocket.js:1022:20)
+    at Receiver.emit (node:events:390:28)
+    at Receiver.dataMessage (/home/runner/Nia-Honjou2/node_modules/ws/lib/receiver.js:522:14)
+    at Receiver.getData (/home/runner/Nia-Honjou2/node_modules/ws/lib/receiver.js:440:17)
+    at Receiver.startLoop (/home/runner/Nia-Honjou2/node_modules/ws/lib/receiver.js:148:22)
+    at Receiver._write (/home/runner/Nia-Honjou2/node_modules/ws/lib/receiver.js:83:10)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: me.edit is not a function
+    at Object.run (/home/runner/Nia-Honjou2/commands/Dev/rr-update.js:65:12)
+    at Client.<anonymous> (/home/runner/Nia-Honjou2/events/messageCreate.js:19:19)
+    at Client.emit (node:events:402:35)
+    at MessageCreateAction.handle (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/actions/MessageCreate.js:23:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/WebSocketManager.js:350:31)
+    at WebSocketShard.onPacket (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/WebSocketShard.js:443:22)
+    at WebSocketShard.onMessage (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/WebSocketShard.js:300:10)
+    at WebSocket.onMessage (/home/runner/Nia-Honjou2/node_modules/ws/lib/event-target.js:199:18)
+    at WebSocket.emit (node:events:390:28)
+    at Receiver.receiverOnMessage (/home/runner/Nia-Honjou2/node_modules/ws/lib/websocket.js:1022:20)
+    at Receiver.emit (node:events:390:28)
+    at Receiver.dataMessage (/home/runner/Nia-Honjou2/node_modules/ws/lib/receiver.js:522:14)
+    at Receiver.getData (/home/runner/Nia-Honjou2/node_modules/ws/lib/receiver.js:440:17)
+    at Receiver.startLoop (/home/runner/Nia-Honjou2/node_modules/ws/lib/receiver.js:148:22)
+    at Receiver._write (/home/runner/Nia-Honjou2/node_modules/ws/lib/receiver.js:83:10)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: [31m[ZeroApi Wrapper] Error: No message provided[0m
+    at AuthClient.waifuchat (/home/runner/Nia-Honjou2/node_modules/zeroapi-wrapper/index.js:277:19)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Client.<anonymous> (/home/runner/Nia-Honjou2/events/chatbot2.js:9:18)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: [31m[ZeroApi Wrapper] Error: No message provided[0m
+    at AuthClient.waifuchat (/home/runner/Nia-Honjou2/node_modules/zeroapi-wrapper/index.js:277:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Client.<anonymous> (/home/runner/Nia-Honjou2/events/chatbot2.js:9:18)
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - resolve
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - resolve
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: Cannot read properties of undefined (reading 'replaceAll')
+    at Client.<anonymous> (/home/runner/Nia-Honjou2/events/chatbot2.js:10:30)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Cannot send an empty message
+    at RequestHandler.execute (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:298:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:50:14)
+    at async TextChannel.send (/home/runner/Nia-Honjou2/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:172:15)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Cannot send an empty message
+    at RequestHandler.execute (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:298:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:50:14)
+    at async TextChannel.send (/home/runner/Nia-Honjou2/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:172:15)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Cannot send an empty message
+    at RequestHandler.execute (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:298:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:50:14)
+    at async TextChannel.send (/home/runner/Nia-Honjou2/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:172:15)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: [31m[ZeroApi Wrapper] Error: No message provided[0m
+    at AuthClient.waifuchat (/home/runner/Nia-Honjou2/node_modules/zeroapi-wrapper/index.js:277:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Client.<anonymous> (/home/runner/Nia-Honjou2/events/chatbot2.js:9:17)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Invalid Form Body
+message_reference: Cannot reply to a system message
+    at RequestHandler.execute (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:298:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:50:14)
+    at async TextChannel.send (/home/runner/Nia-Honjou2/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:172:15)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Invalid Form Body
+message_reference: Cannot reply to a system message
+    at RequestHandler.execute (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:298:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:50:14)
+    at async TextChannel.send (/home/runner/Nia-Honjou2/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:172:15)
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - resolve
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+    at NativeConnection.Connection.openUri (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/connection.js:797:32)
+    at /home/runner/Nia-Honjou3/node_modules/mongoose/lib/index.js:330:10
+    at /home/runner/Nia-Honjou3/node_modules/mongoose/lib/helpers/promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/index.js:1151:10)
+    at Mongoose.connect (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/index.js:329:20)
+    at Object.connect (/home/runner/Nia-Honjou3/node_modules/simply-xp/src/connect.js:11:12)
+    at Object.<anonymous> (/home/runner/Nia-Honjou3/index.js:24:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+    at NativeConnection.Connection.openUri (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/connection.js:797:32)
+    at /home/runner/Nia-Honjou3/node_modules/mongoose/lib/index.js:330:10
+    at /home/runner/Nia-Honjou3/node_modules/mongoose/lib/helpers/promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/index.js:1151:10)
+    at Mongoose.connect (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/index.js:329:20)
+    at Object.connect (/home/runner/Nia-Honjou3/node_modules/simply-xp/src/connect.js:11:12)
+    at Object.<anonymous> (/home/runner/Nia-Honjou3/index.js:24:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseError: Operation `simply-xps.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:149:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseError: Operation `simply-xps.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:149:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseError: Operation `simply-xps.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:149:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseError: Operation `simply-xps.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:149:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+    at NativeConnection.Connection.openUri (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/connection.js:797:32)
+    at /home/runner/Nia-Honjou3/node_modules/mongoose/lib/index.js:330:10
+    at /home/runner/Nia-Honjou3/node_modules/mongoose/lib/helpers/promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/index.js:1151:10)
+    at Mongoose.connect (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/index.js:329:20)
+    at Object.connect (/home/runner/Nia-Honjou3/node_modules/simply-xp/src/connect.js:11:12)
+    at Object.<anonymous> (/home/runner/Nia-Honjou3/index.js:24:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+    at NativeConnection.Connection.openUri (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/connection.js:797:32)
+    at /home/runner/Nia-Honjou3/node_modules/mongoose/lib/index.js:330:10
+    at /home/runner/Nia-Honjou3/node_modules/mongoose/lib/helpers/promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/index.js:1151:10)
+    at Mongoose.connect (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/index.js:329:20)
+    at Object.connect (/home/runner/Nia-Honjou3/node_modules/simply-xp/src/connect.js:11:12)
+    at Object.<anonymous> (/home/runner/Nia-Honjou3/index.js:24:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - resolve
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: Cannot read properties of undefined (reading 'title')
+    at Object.run (/home/runner/Nia-Honjou3/SlashCommands/music/play.js:41:114)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - Error: Error: Cannot find module '/home/runner/Nia-Honjou3/node_modules/@discordjs/opus/prebuild/node-v93-napi-v3-linux-x64-glibc-2.24/opus.node'
+Require stack:
+- /home/runner/Nia-Honjou3/node_modules/@discordjs/opus/lib/index.js
+- /home/runner/Nia-Honjou3/node_modules/prism-media/src/util/loader.js
+- /home/runner/Nia-Honjou3/node_modules/prism-media/src/opus/Opus.js
+- /home/runner/Nia-Honjou3/node_modules/prism-media/src/opus/index.js
+- /home/runner/Nia-Honjou3/node_modules/prism-media/src/index.js
+- /home/runner/Nia-Honjou3/node_modules/discord-ytdl-core/index.js
+- /home/runner/Nia-Honjou3/node_modules/discord-player/dist/Structures/Queue.js
+- /home/runner/Nia-Honjou3/node_modules/discord-player/dist/Player.js
+- /home/runner/Nia-Honjou3/node_modules/discord-player/dist/index.js
+- /home/runner/Nia-Honjou3/client/player.js
+- /home/runner/Nia-Honjou3/SlashCommands/music/back.js
+- /home/runner/Nia-Honjou3/handler/index.js
+- /home/runner/Nia-Honjou3/index.js
+Error: Cannot find module 'node-opus'
+Require stack:
+- /home/runner/Nia-Honjou3/node_modules/prism-media/src/util/loader.js
+- /home/runner/Nia-Honjou3/node_modules/prism-media/src/opus/Opus.js
+- /home/runner/Nia-Honjou3/node_modules/prism-media/src/opus/index.js
+- /home/runner/Nia-Honjou3/node_modules/prism-media/src/index.js
+- /home/runner/Nia-Honjou3/node_modules/discord-ytdl-core/index.js
+- /home/runner/Nia-Honjou3/node_modules/discord-player/dist/Structures/Queue.js
+- /home/runner/Nia-Honjou3/node_modules/discord-player/dist/Player.js
+- /home/runner/Nia-Honjou3/node_modules/discord-player/dist/index.js
+- /home/runner/Nia-Honjou3/client/player.js
+- /home/runner/Nia-Honjou3/SlashCommands/music/back.js
+- /home/runner/Nia-Honjou3/handler/index.js
+- /home/runner/Nia-Honjou3/index.js
+Error: Cannot find module 'opusscript'
+Require stack:
+- /home/runner/Nia-Honjou3/node_modules/prism-media/src/util/loader.js
+- /home/runner/Nia-Honjou3/node_modules/prism-media/src/opus/Opus.js
+- /home/runner/Nia-Honjou3/node_modules/prism-media/src/opus/index.js
+- /home/runner/Nia-Honjou3/node_modules/prism-media/src/index.js
+- /home/runner/Nia-Honjou3/node_modules/discord-ytdl-core/index.js
+- /home/runner/Nia-Honjou3/node_modules/discord-player/dist/Structures/Queue.js
+- /home/runner/Nia-Honjou3/node_modules/discord-player/dist/Player.js
+- /home/runner/Nia-Honjou3/node_modules/discord-player/dist/index.js
+- /home/runner/Nia-Honjou3/client/player.js
+- /home/runner/Nia-Honjou3/SlashCommands/music/back.js
+- /home/runner/Nia-Honjou3/handler/index.js
+- /home/runner/Nia-Honjou3/index.js
+    at Object.loader [as require] (/home/runner/Nia-Honjou3/node_modules/prism-media/src/util/loader.js:12:9)
+    at loadOpus (/home/runner/Nia-Honjou3/node_modules/prism-media/src/opus/Opus.js:17:17)
+    at new OpusStream (/home/runner/Nia-Honjou3/node_modules/prism-media/src/opus/Opus.js:46:10)
+    at new Encoder (/home/runner/Nia-Honjou3/node_modules/prism-media/src/opus/Opus.js:149:5)
+    at Object.transformer (/home/runner/Nia-Honjou3/node_modules/discord-player/node_modules/@discordjs/voice/dist/audio/TransformerGraph.js:120:24)
+    at /home/runner/Nia-Honjou3/node_modules/discord-player/node_modules/@discordjs/voice/dist/audio/AudioResource.js:156:60
+    at Array.map (<anonymous>)
+    at Object.createAudioResource (/home/runner/Nia-Honjou3/node_modules/discord-player/node_modules/@discordjs/voice/dist/audio/AudioResource.js:156:41)
+    at StreamDispatcher.createStream (/home/runner/Nia-Honjou3/node_modules/discord-player/dist/VoiceInterface/StreamDispatcher.js:108:38)
+    at Queue.<anonymous> (/home/runner/Nia-Honjou3/node_modules/discord-player/dist/Structures/Queue.js:666:46)
+    at Generator.next (<anonymous>)
+    at fulfilled (/home/runner/Nia-Honjou3/node_modules/discord-player/dist/Structures/Queue.js:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: Cannot read properties of undefined (reading 'url')
+    at Object.run (/home/runner/Nia-Honjou3/SlashCommands/music/play2.js:26:45)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+    at NativeConnection.Connection.openUri (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/connection.js:797:32)
+    at /home/runner/Nia-Honjou3/node_modules/mongoose/lib/index.js:330:10
+    at /home/runner/Nia-Honjou3/node_modules/mongoose/lib/helpers/promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/index.js:1151:10)
+    at Mongoose.connect (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/index.js:329:20)
+    at Object.connect (/home/runner/Nia-Honjou3/node_modules/simply-xp/src/connect.js:11:12)
+    at Object.<anonymous> (/home/runner/Nia-Honjou3/index.js:24:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+    at NativeConnection.Connection.openUri (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/connection.js:797:32)
+    at /home/runner/Nia-Honjou3/node_modules/mongoose/lib/index.js:330:10
+    at /home/runner/Nia-Honjou3/node_modules/mongoose/lib/helpers/promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/index.js:1151:10)
+    at Mongoose.connect (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/index.js:329:20)
+    at Object.connect (/home/runner/Nia-Honjou3/node_modules/simply-xp/src/connect.js:11:12)
+    at Object.<anonymous> (/home/runner/Nia-Honjou3/index.js:24:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseError: Operation `simply-xps.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:149:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseError: Operation `simply-xps.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:149:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseError: Operation `simply-xps.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:149:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseError: Operation `simply-xps.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:149:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseError: Operation `simply-xps.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:149:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseError: Operation `simply-xps.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:149:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - MongooseError: Operation `simply-xps.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/home/runner/Nia-Honjou3/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:149:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: ctx.roundRect is not a function
+    at /home/runner/Nia-Honjou2/node_modules/discord-welcome-card/lib/index.js:46:17
+    at Generator.next (<anonymous>)
+    at fulfilled (/home/runner/Nia-Honjou2/node_modules/discord-welcome-card/lib/index.js:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: ctx.roundRect is not a function
+    at /home/runner/Nia-Honjou2/node_modules/discord-welcome-card/lib/index.js:46:17
+    at Generator.next (<anonymous>)
+    at fulfilled (/home/runner/Nia-Honjou2/node_modules/discord-welcome-card/lib/index.js:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: ctx.roundRect is not a function
+    at /home/runner/Nia-Honjou2/node_modules/discord-welcome-card/lib/index.js:46:17
+    at Generator.next (<anonymous>)
+    at fulfilled (/home/runner/Nia-Honjou2/node_modules/discord-welcome-card/lib/index.js:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - TypeError: ctx.roundRect is not a function
+    at /home/runner/Nia-Honjou2/node_modules/discord-welcome-card/lib/index.js:46:17
+    at Generator.next (<anonymous>)
+    at fulfilled (/home/runner/Nia-Honjou2/node_modules/discord-welcome-card/lib/index.js:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Missing Permissions
+    at RequestHandler.execute (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async GuildMemberManager.edit (/home/runner/Nia-Honjou2/node_modules/discord.js/src/managers/GuildMemberManager.js:279:15)
+    at async /home/runner/Nia-Honjou2/events/antiScam.js:62:9
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Missing Permissions
+    at RequestHandler.execute (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async GuildMemberManager.edit (/home/runner/Nia-Honjou2/node_modules/discord.js/src/managers/GuildMemberManager.js:279:15)
+    at async /home/runner/Nia-Honjou2/events/antiScam.js:62:9
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Missing Permissions
+    at RequestHandler.execute (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async GuildMemberManager.edit (/home/runner/Nia-Honjou2/node_modules/discord.js/src/managers/GuildMemberManager.js:279:15)
+    at async /home/runner/Nia-Honjou2/events/antiScam.js:87:9
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Missing Permissions
+    at RequestHandler.execute (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async GuildMemberManager.edit (/home/runner/Nia-Honjou2/node_modules/discord.js/src/managers/GuildMemberManager.js:279:15)
+    at async /home/runner/Nia-Honjou2/events/antiScam.js:87:9
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Missing Permissions
+    at RequestHandler.execute (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async GuildMemberManager.kick (/home/runner/Nia-Honjou2/node_modules/discord.js/src/managers/GuildMemberManager.js:363:5)
+    at async /home/runner/Nia-Honjou2/events/antiScam.js:114:11
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Missing Permissions
+    at RequestHandler.execute (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async GuildMemberManager.kick (/home/runner/Nia-Honjou2/node_modules/discord.js/src/managers/GuildMemberManager.js:363:5)
+    at async /home/runner/Nia-Honjou2/events/antiScam.js:114:11
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Missing Permissions
+    at RequestHandler.execute (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async GuildMemberManager.kick (/home/runner/Nia-Honjou2/node_modules/discord.js/src/managers/GuildMemberManager.js:363:5)
+    at async /home/runner/Nia-Honjou2/events/antiScam.js:114:11
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Missing Permissions
+    at RequestHandler.execute (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async GuildMemberManager.kick (/home/runner/Nia-Honjou2/node_modules/discord.js/src/managers/GuildMemberManager.js:363:5)
+    at async /home/runner/Nia-Honjou2/events/antiScam.js:114:11
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - DiscordAPIError: Missing Permissions
+    at RequestHandler.execute (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:350:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async RequestHandler.push (/home/runner/Nia-Honjou2/node_modules/discord.js/src/rest/RequestHandler.js:51:14)
+    at async GuildMemberManager.kick (/home/runner/Nia-Honjou2/node_modules/discord.js/src/managers/GuildMemberManager.js:363:5)
+    at async /home/runner/Nia-Honjou2/events/antiScam.js:114:11
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - Error [TOKEN_INVALID]: An invalid token was provided.
+    at WebSocketManager.connect (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/WebSocketManager.js:129:26)
+    at Client.login (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/Client.js:254:21)
+    at Object.<anonymous> (/home/runner/Nia-Honjou2/index.js:30:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - Error [TOKEN_INVALID]: An invalid token was provided.
+    at WebSocketManager.connect (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/WebSocketManager.js:129:26)
+    at Client.login (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/Client.js:254:21)
+    at Object.<anonymous> (/home/runner/Nia-Honjou2/index.js:30:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - Error [TOKEN_INVALID]: An invalid token was provided.
+    at WebSocketManager.connect (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/WebSocketManager.js:129:26)
+    at Client.login (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/Client.js:254:21)
+    at Object.<anonymous> (/home/runner/Nia-Honjou2/index.js:30:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - Error [TOKEN_INVALID]: An invalid token was provided.
+    at WebSocketManager.connect (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/WebSocketManager.js:129:26)
+    at Client.login (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/Client.js:254:21)
+    at Object.<anonymous> (/home/runner/Nia-Honjou2/index.js:30:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - Error [TOKEN_INVALID]: An invalid token was provided.
+    at WebSocketManager.connect (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/WebSocketManager.js:129:26)
+    at Client.login (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/Client.js:254:21)
+    at Object.<anonymous> (/home/runner/Nia-Honjou2/index.js:30:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - Error [TOKEN_INVALID]: An invalid token was provided.
+    at WebSocketManager.connect (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/WebSocketManager.js:129:26)
+    at Client.login (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/Client.js:254:21)
+    at Object.<anonymous> (/home/runner/Nia-Honjou2/index.js:30:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - Error [TOKEN_INVALID]: An invalid token was provided.
+    at WebSocketManager.connect (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/WebSocketManager.js:129:26)
+    at Client.login (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/Client.js:254:21)
+    at Object.<anonymous> (/home/runner/Nia-Honjou2/index.js:30:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - Error [TOKEN_INVALID]: An invalid token was provided.
+    at WebSocketManager.connect (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/WebSocketManager.js:129:26)
+    at Client.login (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/Client.js:254:21)
+    at Object.<anonymous> (/home/runner/Nia-Honjou2/index.js:30:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - Error [TOKEN_INVALID]: An invalid token was provided.
+    at WebSocketManager.connect (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/WebSocketManager.js:129:26)
+    at Client.login (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/Client.js:254:21)
+    at Object.<anonymous> (/home/runner/Nia-Honjou2/index.js:30:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - Error [TOKEN_INVALID]: An invalid token was provided.
+    at WebSocketManager.connect (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/WebSocketManager.js:129:26)
+    at Client.login (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/Client.js:254:21)
+    at Object.<anonymous> (/home/runner/Nia-Honjou2/index.js:30:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - Error [TOKEN_INVALID]: An invalid token was provided.
+    at WebSocketManager.connect (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/WebSocketManager.js:129:26)
+    at Client.login (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/Client.js:254:21)
+    at Object.<anonymous> (/home/runner/Nia-Honjou2/index.js:30:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - Error [TOKEN_INVALID]: An invalid token was provided.
+    at WebSocketManager.connect (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/WebSocketManager.js:129:26)
+    at Client.login (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/Client.js:254:21)
+    at Object.<anonymous> (/home/runner/Nia-Honjou2/index.js:30:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+[error] - [94m[antiCrash.js][39m[31mMultiple resolves detected.[39m
+[error] - reject
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - Error [TOKEN_INVALID]: An invalid token was provided.
+    at WebSocketManager.connect (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/WebSocketManager.js:129:26)
+    at Client.login (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/Client.js:254:21)
+    at Object.<anonymous> (/home/runner/Nia-Honjou2/index.js:30:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - Error [TOKEN_INVALID]: An invalid token was provided.
+    at WebSocketManager.connect (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/WebSocketManager.js:129:26)
+    at Client.login (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/Client.js:254:21)
+    at Object.<anonymous> (/home/runner/Nia-Honjou2/index.js:30:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+[error] - [94m[antiCrash.js][39m[31mUnhandled rejection/crash detected.[39m
+[error] - Error [TOKEN_INVALID]: An invalid token was provided.
+    at WebSocketManager.connect (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/websocket/WebSocketManager.js:129:26)
+    at Client.login (/home/runner/Nia-Honjou2/node_modules/discord.js/src/client/Client.js:254:21)
+    at Object.<anonymous> (/home/runner/Nia-Honjou2/index.js:30:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
